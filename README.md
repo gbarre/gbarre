@@ -2,7 +2,18 @@
 
 I'll be back!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbarre&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbarre&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gbarre&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gbarre&show_icons=true&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=gbarre&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img alt="Anurag's GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarre&theme=radical" />
+  </a>
+</p>
