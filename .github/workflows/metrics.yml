@@ -51,11 +51,18 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, scss
 
+      - name: Collect the rendered SVGs
+        run: |
+          ls -la /metrics_renders
+          mkdir -p dist
+          cp /metrics_renders/metrics-overview.svg \
+            /metrics_renders/metrics-languages.svg dist/
+
       - name: Push the SVGs to the metrics branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: metrics
-          build_dir: /metrics_renders
+          build_dir: dist
           commit_message: "chore: update profile metrics"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
