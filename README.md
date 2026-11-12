@@ -89,6 +89,15 @@
 - 🎯 Archer, **arbitre et encadrant fédéral** FFTA à la Compagnie d'archers de Pontoise.
 - 🔭 Astrophotographie avec un Seestar S30 Pro, et un pipeline Python maison pour traiter les FITS.
 
+## 📊 En chiffres
+
+<p align="center">
+  <img alt="Vue d'ensemble GitHub" src="https://raw.githubusercontent.com/gbarre/gbarre/metrics/metrics-overview.svg">
+</p>
+<p align="center">
+  <img alt="Langages les plus utilisés" src="https://raw.githubusercontent.com/gbarre/gbarre/metrics/metrics-languages.svg">
+</p>
+
 ## 🐍 Mon activité
 
 <p align="center">
